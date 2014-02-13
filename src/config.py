@@ -26,8 +26,7 @@ real_name = 'Droidly Droiderson'
 
 # channels to join on startup
 channels = list(set([
-    '#ppybbot',
-    '#test-chan',
+    '#acm-sfsu',
 ]))
 
 cmds = {
