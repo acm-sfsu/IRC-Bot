@@ -20,9 +20,9 @@ server = 'chat.freenode.net'
 port = 6667
 
 # bot's nicknames
-nicks = list(set(['PPyBot']))
+nicks = list(set(['droidly']))
 # bot's real name
-real_name = 'Paul Python Bot'
+real_name = 'Droidly Droiderson'
 
 # channels to join on startup
 channels = list(set([
